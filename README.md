@@ -1,4 +1,4 @@
-# Finansal Analiz Platformu
+# Financial Analyses Website
 
 ## Overview
 
